@@ -3,9 +3,9 @@
 * Edited by Orion Pax May 24th, 2019
 *********************************************************/
 
-DROP DATABASE IF EXISTS orions_guitar_shop;
-CREATE DATABASE orions_guitar_shop;
-USE orions_guitar_shop;
+DROP DATABASE IF EXISTS orians_guitar_shop;
+CREATE DATABASE orians_guitar_shop;
+USE orians_guitar_shop;
 
 -- create the tables for the database
 CREATE TABLE categories (
