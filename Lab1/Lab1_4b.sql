@@ -1,0 +1,4 @@
+-- This file will contain your script for Lab1 part 4b
+-- Write a SELECT statement that joins the customers table to the orders table and returns these columns: CompanyName as "Customer",  
+-- OrderDate,  and ShippedDate. 
+-- Format the dates mm/dd/yy

@@ -1,3 +1,0 @@
--- This file will contain your script for Lab1 part 4b
--- Write a SELECT statement that joins the customers table to the orders table and returns these columns: Customer Name (concatenation and alias,) order_date and ship_amount.
--- Format the date mm/dd/yy.
