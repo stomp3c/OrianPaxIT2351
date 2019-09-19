@@ -1,7 +1,7 @@
 ### Executive Summary
 Provide an overview of your lab once it is completed
 
-### Summary of Queries
+### Summary and Logic of Queries
 
 1.
 
